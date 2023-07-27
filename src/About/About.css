@@ -1,0 +1,32 @@
+*{
+font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.About{
+    padding: 6rem 0;
+    background-color: #1abc9c;
+}
+.About h2{
+    font-size: 3rem;
+    line-height: 2.5rem ;
+    font-weight: 700;
+}
+.About .line-icon{
+    margin: 1.25rem 0 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.About .line-icon .line{
+    width: 110px;
+    height: 5px;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+.About  p{
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: white;
+}
